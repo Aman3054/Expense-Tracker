@@ -63,10 +63,3 @@ The **Expense Management System** is a web-based application designed to help us
 - **CI/CD Pipeline**: Set up automated Continuous Integration and Continuous Deployment for smooth updates.
 
 ---
-
-## 🔗 Links
-
-- **Frontend**: [AWS Link](#)
-- **Backend**: [Render Link](#)
-
-Feel free to explore and customize your financial tracking with this easy-to-use, powerful expense manager!
