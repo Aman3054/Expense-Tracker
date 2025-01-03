@@ -1,6 +1,6 @@
-# 🏦 Expense Management System
+# 🏦 Expense Tracker
 
-The **Expense Management System** is a web-based application designed to help users track and manage their daily expenses effortlessly. Built using the powerful **MERN stack** (MongoDB, Express.js, React.js, and Node.js), this system provides a scalable, responsive, and user-friendly platform for users to gain detailed insights into their spending patterns, optimize their budgets, and make smarter financial decisions.
+The **Expense Tracker** is a web-based application designed to help users track and manage their daily expenses effortlessly. Built using the powerful **MERN stack** (MongoDB, Express.js, React.js, and Node.js), this system provides a scalable, responsive, and user-friendly platform for users to gain detailed insights into their spending patterns, optimize their budgets, and make smarter financial decisions.
 
 ---
 
